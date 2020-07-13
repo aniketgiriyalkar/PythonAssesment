@@ -1,5 +1,5 @@
 # PythonAssesment
-## Assessment for Software Developer position
+## Assessment for Software Engineer position
 
 The application asks the user for an input.
 
